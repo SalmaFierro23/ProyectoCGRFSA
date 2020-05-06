@@ -1,0 +1,20 @@
+newmtl Material__26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd moradot.jpg
+map_Ka moradot.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Circular_Grass_Patch_v1_iterations_2_10438_Circular_Grass_Patch_v1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 10438_Circular_Grass_Patch_v1_Diffuse.jpg
+map_Ka 10438_Circular_Grass_Patch_v1_Diffuse.jpg
+Ni 1.50
+Ks 0.05 0.05 0.05
+Ns 10.00

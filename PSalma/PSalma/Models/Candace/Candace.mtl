@@ -1,0 +1,32 @@
+newmtl A_001
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka A_001.png
+map_Kd A_001.png
+map_d A_001.png
+newmtl B_001
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka B_001.png
+map_Kd B_001.png
+map_d B_001.png
+newmtl hand
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka hand.png
+map_Kd hand.png
+map_d hand.png
+newmtl lambert1
+Ka 0 0 0
+Kd 0.3764706 0.3764706 0.3764706
+d 1
+Tr 1
+map_Ka lambert1.png
+map_Kd lambert1.png
+map_d lambert1.png

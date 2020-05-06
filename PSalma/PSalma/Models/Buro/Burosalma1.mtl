@@ -1,0 +1,30 @@
+newmtl Burosalma:Material__26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturarepisa.jpg
+map_Ka texturarepisa.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Burosalma:Material__38
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd burot2.jpg
+map_Ka burot2.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Burosalma:Material__50
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd burot2.jpg
+map_Ka burot2.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
